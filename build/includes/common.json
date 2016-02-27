@@ -1,0 +1,7 @@
+[
+	"src/WebGL.js",
+    "src/Renderer.js",
+    "src/Program.js",
+    "src/Shader.js",
+    "src/Primitives.js"
+]
